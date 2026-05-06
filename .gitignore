@@ -1,5 +1,6 @@
 .venv/
 .venv_benchmark/
+venv/
 benign_only/images/
 benign_only/meta/
 __pycache__/
